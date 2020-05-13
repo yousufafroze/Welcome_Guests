@@ -8,7 +8,7 @@
 
 
 **How**:
-- Used CV2 and face Recognition library to train the model on the pictures of the guests.
+- Used CV2 and Face Recognition library to train the model on the pictures of the guests.
 - Each guest's face is mapped to their phone number and is used when the model recognizes the guest in live camera.
 
 *The message is as follows*
