@@ -15,6 +15,12 @@
 > ![alt text](https://github.com/yousufafroze/Welcome_Guests/blob/master/welcome_guests_msg.jpeg)
 
 
+**Difficulties**
+- Had to process each video frame at 1/4 resolution (though still display it at full resolution) in order to minimize lag.
+- Integrating, hit 'q' on the keyboard to quit feature, or else, the software wouldn't stop, even after closing the window.
+
+
+
 
 
 
