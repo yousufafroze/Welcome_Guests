@@ -4,7 +4,7 @@
 - To text guests the house's wifi automatically.
 
 **What**: 
-- When the live camera (laptop's front camera) recognizes the guest, they are sent a welcome text along with the house's WiFi
+- When the live camera (laptop's front camera) recognizes the guest, they are sent a welcome text along with the house's WiFi through Twilio
 
 
 **How**:
