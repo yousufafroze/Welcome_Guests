@@ -1,4 +1,4 @@
-# Welcome_Guests
+# Wifi Password
 
 **Idea**: 
 - To text guests the house's wifi automatically.
